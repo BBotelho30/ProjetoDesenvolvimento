@@ -17,7 +17,7 @@
 </script>
 
 <header class="header">
-    <div class="logo">QuickSeat</div>
+    <div class="logo">QuickSeat!</div>
     <nav class="nav">
         <ul>
             <li><a href="/admin">Início</a></li>
